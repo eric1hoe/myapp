@@ -46,7 +46,7 @@ public class BothLink<E> {
 		if((index+1)<=size>>1){
 			Node<E> node=head;
 			/*for(node=node.next;){
-				lll
+				ll
 			}*/
 		}else{
 			
